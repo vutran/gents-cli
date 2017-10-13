@@ -1,0 +1,24 @@
+{
+  "name": "gents-cli",
+  "version": "0.0.0",
+  "description": "Generate TypeScript definitions for a given endpoint.",
+  "bin": {
+    "gents": "./cli.js"
+  },
+  "main": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vutran/gents-cli.git"
+  },
+  "author": "Vu Tran <vu@vu-tran.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vutran/gents-cli/issues"
+  },
+  "homepage": "https://github.com/vutran/gents-cli#readme",
+  "dependencies": {
+    "gents": "^0.1.3",
+    "got": "^7.1.0",
+    "mri": "^1.1.0"
+  }
+}
