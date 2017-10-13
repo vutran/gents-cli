@@ -14,6 +14,10 @@ $ npm i -g gents-cli
 $ gents https://swapi.co/api/people/1/ --interfaceName Character
 ```
 
-## LICENSE
+## Related
+
+- [gents](https://github.com/vutran/gents/) - Module to generate TypeScript definitions from a JSON string.
+
+## License
 
 MIT © [Vu Tran](https://github.com/vutran/)
